@@ -28,3 +28,4 @@ jobs:
           tags: |
                 devzenmaster/docker-automation:${{ env.SHORT_SHA }}
                 devzenmaster/docker-automation:latest
+              
